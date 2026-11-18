@@ -17,6 +17,7 @@
 | `_Code/make_storyboard.py` | Builds `Storyboard.pdf` from the rendered scenes |
 | `Storyboard.pdf` | 6-scene storyboard: purpose, visuals, narration and maths plan |
 | `Narration_Script.md` / `narration.srt` | Voice-over script with timings |
+| `AI_Disclosure.md` | Every AI tool used and what it did |
 
 ## Worked example
 ```
@@ -46,3 +47,5 @@ python make_storyboard.py
 
 ## AI disclosure
 The script, storyboard and Manim code were drafted with help from Claude (Anthropic). The voice-over is AI text-to-speech (Kokoro). I checked all the mathematics by hand (see `verify_math.py`).
+
+Full details: [AI_Disclosure.md](AI_Disclosure.md)
