@@ -1,0 +1,30 @@
+{
+ "duration": 40.00000000000029,
+ "cues": [
+  {
+   "start": 0.0,
+   "end": 7.200000000000002,
+   "text": "Hi! In this video we'll learn Gaussian elimination, a step-by-step method for solving systems of linear equations."
+  },
+  {
+   "start": 7.200000000000002,
+   "end": 7.8,
+   "text": ""
+  },
+  {
+   "start": 7.8,
+   "end": 18.33333333333332,
+   "text": "Here are three equations in three unknowns, x, y and z. Can you see the solution just by looking? Not really: every equation mixes all three variables."
+  },
+  {
+   "start": 18.33333333333332,
+   "end": 27.766666666666854,
+   "text": "Now look at this system. The last equation says seven z equals twenty-one, so z is three. Plug that in above, and y and x follow straight away."
+  },
+  {
+   "start": 27.766666666666854,
+   "end": 39.40000000000029,
+   "text": "Here's the surprise: both systems have exactly the same solution. Gaussian elimination is the recipe that turns the hard system into the easy one. Let's see how, and why it works."
+  }
+ ]
+}

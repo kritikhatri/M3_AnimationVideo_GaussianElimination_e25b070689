@@ -1,0 +1,30 @@
+{
+ "duration": 29.633333333333432,
+ "cues": [
+  {
+   "start": 0.0,
+   "end": 2.2333333333333334,
+   "text": "Let's recap three key takeaways."
+  },
+  {
+   "start": 2.2333333333333334,
+   "end": 6.133333333333329,
+   "text": "One: write the system as an augmented matrix, A bar b."
+  },
+  {
+   "start": 6.133333333333329,
+   "end": 12.899999999999991,
+   "text": "Two: use row operations to reach echelon form. They change the equations, but never the solution set."
+  },
+  {
+   "start": 12.899999999999991,
+   "end": 22.433333333333323,
+   "text": "Three: solve by back-substitution, check in the original equations, and read the pivots to know if the solution is unique, impossible, or infinite."
+  },
+  {
+   "start": 22.433333333333323,
+   "end": 28.633333333333432,
+   "text": "Thanks for watching! References, tools and the AI disclosure are on screen now."
+  }
+ ]
+}

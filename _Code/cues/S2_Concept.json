@@ -1,0 +1,30 @@
+{
+ "duration": 56.633333333333084,
+ "cues": [
+  {
+   "start": 0.0,
+   "end": 11.53333333333332,
+   "text": "First, some notation. Only the numbers matter, not the letters. So we write the system as an augmented matrix: the coefficient matrix A, then a bar, then the right-hand-side column b."
+  },
+  {
+   "start": 11.53333333333332,
+   "end": 22.59999999999998,
+   "text": "Each row is one equation: we'll call them R one, R two and R three. Each column belongs to one variable, x, y and z, and the last column holds the constants."
+  },
+  {
+   "start": 22.59999999999998,
+   "end": 35.23333333333349,
+   "text": "We are allowed three elementary row operations. One: swap two rows. Two: multiply a row by a non-zero number k. Three: replace a row by itself plus c times another row."
+  },
+  {
+   "start": 35.23333333333349,
+   "end": 44.899999999999864,
+   "text": "Our goal is row echelon form, a staircase shape. The first non-zero entry in each row is called a pivot, and every entry below a pivot is zero."
+  },
+  {
+   "start": 44.899999999999864,
+   "end": 56.03333333333308,
+   "text": "By the end of this video, you'll be able to reduce a three by three system to echelon form, solve it by back-substitution, and explain why row operations never change the solution."
+  }
+ ]
+}

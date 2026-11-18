@@ -1,0 +1,5 @@
+_Code/media/
+__pycache__/
+_Code/frames/
+*.onnx
+voices-v1.0.bin

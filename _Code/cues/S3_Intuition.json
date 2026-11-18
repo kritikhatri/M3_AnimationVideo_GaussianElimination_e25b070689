@@ -1,0 +1,35 @@
+{
+ "duration": 56.999999999999325,
+ "cues": [
+  {
+   "start": 0.0,
+   "end": 9.933333333333309,
+   "text": "Before calculating, let's picture it. An equation in three variables is a plane in space. Our three planes meet at a single point, and that point is the solution."
+  },
+  {
+   "start": 9.933333333333309,
+   "end": 16.866666666666664,
+   "text": "Now apply our first row operation: R two becomes R two minus two R one. Watch the green plane."
+  },
+  {
+   "start": 16.866666666666664,
+   "end": 28.900000000000595,
+   "text": "It tilts to a new position, but it still passes through the same point. Why? If a point satisfies both R one and R two, it automatically satisfies R two minus two R one."
+  },
+  {
+   "start": 28.900000000000595,
+   "end": 37.36666666666711,
+   "text": "And the step can be undone: just add two R one back. So no solutions are gained, and none are lost. The solution set is preserved."
+  },
+  {
+   "start": 37.36666666666711,
+   "end": 49.39999999999976,
+   "text": "Next, R three minus R one, and then R three minus two R two. Look at the final plane: it is perfectly flat. Seven z equals twenty-one, which is the plane z equals three."
+  },
+  {
+   "start": 49.39999999999976,
+   "end": 56.19999999999937,
+   "text": "Every step moved the planes, but never the meeting point. That is the whole idea behind Gaussian elimination."
+  }
+ ]
+}

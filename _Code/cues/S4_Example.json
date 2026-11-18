@@ -1,0 +1,65 @@
+{
+ "duration": 92.89999999999897,
+ "cues": [
+  {
+   "start": 0.0,
+   "end": 4.266666666666667,
+   "text": "Now let's do the algebra carefully. Here is our augmented matrix."
+  },
+  {
+   "start": 4.266666666666667,
+   "end": 11.599999999999993,
+   "text": "Step one. The first pivot is the one in the top-left corner. We use it to create zeros below it, in column one."
+  },
+  {
+   "start": 11.599999999999993,
+   "end": 24.133333333333397,
+   "text": "To clear the two in row two, subtract two times row one. Two minus two is zero, one minus two is minus one, minus one minus two is minus three, and one minus twelve is minus eleven."
+  },
+  {
+   "start": 24.133333333333397,
+   "end": 26.666666666666845,
+   "text": "The new row two replaces the old one."
+  },
+  {
+   "start": 26.666666666666845,
+   "end": 34.300000000000395,
+   "text": "For row three, the leading entry is one, so we simply subtract row one. That gives zero, minus two, one, and minus one."
+  },
+  {
+   "start": 34.300000000000395,
+   "end": 40.30000000000034,
+   "text": "Column one is now clear. Step two: our next pivot is minus one, in row two, column two."
+  },
+  {
+   "start": 40.30000000000034,
+   "end": 51.30000000000003,
+   "text": "To eliminate the minus two below it, use R three minus two R two. Minus two plus two is zero, one plus six is seven, and minus one plus twenty-two is twenty-one."
+  },
+  {
+   "start": 51.30000000000003,
+   "end": 57.533333333333225,
+   "text": "And there it is: row echelon form. Three pivots on a staircase, and zeros below every pivot."
+  },
+  {
+   "start": 57.533333333333225,
+   "end": 66.19999999999963,
+   "text": "Now solve from the bottom up. This is called back-substitution. The last row says seven z equals twenty-one, so z equals three."
+  },
+  {
+   "start": 66.19999999999963,
+   "end": 77.19999999999949,
+   "text": "Row two says minus y minus three z equals minus eleven. Substituting z equals three: minus y minus nine equals minus eleven, so y equals two."
+  },
+  {
+   "start": 77.19999999999949,
+   "end": 81.66666666666605,
+   "text": "Row one: x plus two plus three equals six, so x equals one."
+  },
+  {
+   "start": 81.66666666666605,
+   "end": 92.29999999999897,
+   "text": "Always check in the original equations. One plus two plus three is six. Two plus two minus three is one. One minus two plus six is five. All three check out."
+  }
+ ]
+}

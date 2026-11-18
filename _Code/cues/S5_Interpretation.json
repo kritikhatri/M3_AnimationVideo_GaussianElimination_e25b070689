@@ -1,0 +1,30 @@
+{
+ "duration": 51.533333333333296,
+ "cues": [
+  {
+   "start": 0.0,
+   "end": 7.7666666666666675,
+   "text": "So what do these numbers mean? x equals one, y equals two, z equals three is the single point where all three planes meet."
+  },
+  {
+   "start": 7.7666666666666675,
+   "end": 16.433333333333316,
+   "text": "Echelon form also reveals the structure. Here every column of A has a pivot, so there are no free variables, and the solution is unique."
+  },
+  {
+   "start": 16.433333333333316,
+   "end": 32.366666666666745,
+   "text": "But elimination can end differently. Ours ended with a pivot in every column. If instead a row becomes zero, zero, zero, bar five, it says zero equals five. That's impossible, so there is no solution: the planes share no common point."
+  },
+  {
+   "start": 32.366666666666745,
+   "end": 45.00000000000002,
+   "text": "And if a row becomes all zeros, including the right-hand side, that equation added no new information. A variable is then free, and there are infinitely many solutions, like planes meeting along a line."
+  },
+  {
+   "start": 45.00000000000002,
+   "end": 50.933333333333294,
+   "text": "So after elimination, the pivots tell you everything: one solution, none, or infinitely many."
+  }
+ ]
+}
